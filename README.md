@@ -1,27 +1,67 @@
-## Hello (˶˃ ᵕ ˂˶)
+## Hello, I’m Ifa 👋  
 
-![Banner](./banner-readme.png)
-# 💫 About Me:
-⋆.𐙚 ̊ I'm Ifa ⋆.𐙚 ̊<br>I'm a growing UX/UI Designer and Frontend Developer!~<br>✦ You can call me "Ifa (Ai-fa)".<br>✦ Locked in! A Computer Science Student who is learning all about UX/UI designing and all its creative parts!<br>✦ 22 year old person who is keeping things slow<br><br>✦ Curious? Check my portfolio here! -> [ifafolio.vercel.app](ifafolio.vercel.app)<br>
+<img src="./banner-readme.png" alt="Ifa Banner" width="100%" />
 
-✦ Curious? Check my portfolio here! -> [ifafolio.vercel.app](ifafolio.vercel.app)
+# 💗 About Me
 
-✦ Want to connect? Email me in ifatiffany@gmail.com
+Hi! I’m **Ifa Dela Rosa**, a Computer Science student passionate about **UX/UI Design** and **Frontend Development**.
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ririisaku.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1025809856030064721) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ifadlrs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ifadlcz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ifa Dela Rosa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ifatiffany@gmail.com) 
+I specialize in crafting thoughtful, user-centered interfaces and bringing them to life through clean, responsive code. I enjoy blending creativity with functionality and turning ideas into meaningful digital experiences.
 
-# 💻 Tech Stack:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=whoisririi&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=whoisririi&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisririi&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🌸 Currently growing in:
+- UX Wireframing and Prototyping
+- UI Design Systems  
+- Responsive Web Development  
+- React & Modern Frontend Tools  
 
+🎀 Fun facts:
+- You can call me **Ifa (Ai-fa)**  
+- 22 years old, a progressing UX/UI Designer 
 
-### ✍️ Trying to remember...
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+✨ Portfolio: **https://ifafolio.vercel.app**  
+📩 Email: **ifatiffany@gmail.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=whoisririi&icon=7&color=10)](https://visitcount.itsvg.in)
+
+# 🌷 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F8C8DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ifa-Dela-Rosa)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23F48FB1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ifadlcz)  
+[![Facebook](https://img.shields.io/badge/Facebook-%23F06292?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ifadlrs)  
+[![Bluesky](https://img.shields.io/badge/Bluesky-%23F8BBD0?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ririisaku.bsky.social)  
+[![Email](https://img.shields.io/badge/Email-%23EC407A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifatiffany@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-%23F8BBD0?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%23F48FB1?style=for-the-badge&logo=canva&logoColor=white)
+
+### 💡 Development
+![HTML5](https://img.shields.io/badge/HTML5-%23F06292?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23EC407A?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F8C8DC?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%23F48FB1?style=for-the-badge&logo=react&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23F06292?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+# 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=whoisririi&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=whoisririi&theme=rose_pine&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisririi&theme=rose_pine&hide_border=false&layout=compact)
+
+---
+
+# 🌸 Personal Motto
+
+> “Another day, another slay!" (A motivation to myself to keep on growing)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=whoisririi&icon=7&color=10)
