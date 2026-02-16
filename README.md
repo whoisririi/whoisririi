@@ -1,6 +1,6 @@
 ## Hello, I’m Ifa 👋  
 
-<img src="./banner-readme.png" alt="Ifa Banner" width="100%" />
+<img src="./profile-banner.png" alt="Ifa Banner" width="100%" />
 
 # 💗 About Me
 
