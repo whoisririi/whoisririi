@@ -18,7 +18,7 @@ I specialize in crafting thoughtful, user-centered interfaces and bringing them 
 - You can call me **Ifa (Ai-fa)**  
 - 22 years old, a progressing UX/UI Designer 
 
-✨ Portfolio: **https://ifafolio.vercel.app**  
+✨ Portfolio: **https://whoisririi.github.io/Portfolio/**  
 📩 Email: **ifatiffany@gmail.com**
 
 ---
