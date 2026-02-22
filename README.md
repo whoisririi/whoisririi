@@ -48,13 +48,9 @@ I specialize in crafting thoughtful, user-centered interfaces and bringing them 
 
 ---
 
-# 📊 GitHub Activity
+# 🎵 Recently played
 
-![](https://github-readme-stats.vercel.app/api?username=whoisririi&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=whoisririi&theme=rose_pine&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=whoisririi&theme=rose_pine&hide_border=false&layout=compact)
+![Been listening to...](https://spotify-recently-played-readme.vercel.app/api?user=31ddprqeh7b63lrgsxtxqk7ygl5a&count={count})
 
 ---
 
