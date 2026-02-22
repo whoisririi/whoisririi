@@ -22,6 +22,8 @@ I specialize in crafting thoughtful, user-centered interfaces and bringing them 
 📩 Email: **ifatiffany@gmail.com**
 
 ---
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 # 🌷 Connect With Me
 
