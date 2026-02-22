@@ -44,8 +44,8 @@ I specialize in crafting thoughtful, user-centered interfaces and bringing them 
 ![CSS3](https://img.shields.io/badge/CSS3-%23EC407A?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F8C8DC?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%23F48FB1?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%23EC407A?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23F06292?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 ---
 
 # 🎵 Recently played
