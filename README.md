@@ -49,10 +49,13 @@ I specialize in crafting thoughtful, user-centered interfaces and bringing them 
 ---
 
 # 🎵 Recently played
-![Been listening to...](https://spotify-recently-played-readme.vercel.app/api?user=31ddprqeh7b63lrgsxtxqk7ygl5a)
+![Markdown code snippet](https://spotify-recently-played-readme.vercel.app/api?user=31ddprqeh7b63lrgsxtxqk7ygl5a)
 
 ![Been listening to...](https://spotify-recently-played-readme.vercel.app/api?user=31ddprqeh7b63lrgsxtxqk7ygl5a&count={count})
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ddprqeh7b63lrgsxtxqk7ygl5a&width={width})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ddprqeh7b63lrgsxtxqk7ygl5a&unique={true|1|on|yes})
 ---
 
 # 🌸 Personal Motto
