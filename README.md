@@ -48,11 +48,6 @@ I specialize in crafting thoughtful, user-centered interfaces and bringing them 
 ![C++](https://img.shields.io/badge/C++-%23F06292?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ---
 
-# 🎵 Recently played
-
-![Spotify plays](https://spotify-recently-played-readme.vercel.app/api?user=31ddprqeh7b63lrgsxtxqk7ygl5a&unique={true|1|on|yes})
----
-
 # 🌸 Personal Motto
 
 > “Another day, another slay!" (A motivation to myself to keep on growing)
